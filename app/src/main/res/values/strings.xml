@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">KAndroid</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- 页面标题 -->
+    <string name="loginActivity_title_text">登录</string>
+    <string name="registerActivity_title_text">注册</string>
+    <string name="couponListActivity_title_text">最新券</string>
+
+    <!-- ActionBar -->
+    <string name="action_register">注册</string>
+
+    <!-- 按钮文字 -->
+    <string name="loginActivity_btnLogin_text">登录</string>
+    <string name="loginActivity_btnGotoRegister_text">注册</string>
+    <string name="registerActivity_btnRegister_text">注册</string>
+    <string name="registerActivity_btnSendCode_text">发送验证码</string>
+
+    <!-- EditText hint -->
+    <string name="loginActivity_etPhone_hint">手机号码</string>
+    <string name="loginActivity_etPassword_hint">密码</string>
+    <string name="registerActivity_etPhone_hint">手机号码</string>
+    <string name="registerActivity_etCode_hint">验证码</string>
+    <string name="registerActivity_etPassword_hint">密码</string>
+
+    <!-- Toast信息 -->
+    <string name="loginActivity_toast_loginSuccess">登录成功</string>
+    <string name="registerActivity_toast_codeHasSent">验证码已发送到手机</string>
+    <string name="registerActivity_toast_registerSuccess">注册成功</string>
+</resources>
